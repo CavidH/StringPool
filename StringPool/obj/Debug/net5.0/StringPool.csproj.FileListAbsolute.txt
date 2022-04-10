@@ -1,0 +1,16 @@
+C:\Users\Cavid\RiderProjects\StringPool\StringPool\bin\Debug\net5.0\StringPool.exe
+C:\Users\Cavid\RiderProjects\StringPool\StringPool\bin\Debug\net5.0\StringPool.deps.json
+C:\Users\Cavid\RiderProjects\StringPool\StringPool\bin\Debug\net5.0\StringPool.runtimeconfig.json
+C:\Users\Cavid\RiderProjects\StringPool\StringPool\bin\Debug\net5.0\StringPool.runtimeconfig.dev.json
+C:\Users\Cavid\RiderProjects\StringPool\StringPool\bin\Debug\net5.0\StringPool.dll
+C:\Users\Cavid\RiderProjects\StringPool\StringPool\bin\Debug\net5.0\ref\StringPool.dll
+C:\Users\Cavid\RiderProjects\StringPool\StringPool\bin\Debug\net5.0\StringPool.pdb
+C:\Users\Cavid\RiderProjects\StringPool\StringPool\obj\Debug\net5.0\StringPool.csproj.AssemblyReference.cache
+C:\Users\Cavid\RiderProjects\StringPool\StringPool\obj\Debug\net5.0\StringPool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cavid\RiderProjects\StringPool\StringPool\obj\Debug\net5.0\StringPool.AssemblyInfoInputs.cache
+C:\Users\Cavid\RiderProjects\StringPool\StringPool\obj\Debug\net5.0\StringPool.AssemblyInfo.cs
+C:\Users\Cavid\RiderProjects\StringPool\StringPool\obj\Debug\net5.0\StringPool.csproj.CoreCompileInputs.cache
+C:\Users\Cavid\RiderProjects\StringPool\StringPool\obj\Debug\net5.0\StringPool.dll
+C:\Users\Cavid\RiderProjects\StringPool\StringPool\obj\Debug\net5.0\ref\StringPool.dll
+C:\Users\Cavid\RiderProjects\StringPool\StringPool\obj\Debug\net5.0\StringPool.pdb
+C:\Users\Cavid\RiderProjects\StringPool\StringPool\obj\Debug\net5.0\StringPool.genruntimeconfig.cache
