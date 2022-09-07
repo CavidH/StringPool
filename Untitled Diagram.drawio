@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-07T12:48:35.520Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="GqIRSKiLkDVMvEnEWV43" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-07T12:48:56.970Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="StJJ4IMD-1Filycml4dz" version="20.2.8" type="github">
   <diagram name="Page-1" id="2ca16b54-16f6-2749-3443-fa8db7711227">
     <mxGraphModel dx="816" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" background="none" math="0" shadow="0">
       <root>
@@ -84,9 +84,6 @@
             <mxPoint x="3050" y="1460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sqMOtkHlyQWD_esIQW8H-10" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="2010" y="570" width="180" height="310" as="geometry" />
-        </mxCell>
         <mxCell id="dHU1rHC7Ym9TqFhZgwqX-1" value="Product_Review" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1">
           <mxGeometry x="2420" y="1010" width="110" height="30" as="geometry">
             <mxRectangle x="2420" y="1010" width="160" height="120" as="alternateBounds" />
@@ -112,15 +109,6 @@
               <mxPoint x="2600" y="1198" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="XZvPWjoXxoVKy22Qzbwp-1" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;&lt;b&gt;Nicat&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="2070" y="540" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="XZvPWjoXxoVKy22Qzbwp-2" value="" style="ellipse;whiteSpace=wrap;html=1;fontSize=22;" parent="1" vertex="1">
-          <mxGeometry x="2080" y="605" width="10" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="XZvPWjoXxoVKy22Qzbwp-3" value="" style="ellipse;whiteSpace=wrap;html=1;fontSize=22;" parent="1" vertex="1">
-          <mxGeometry x="2110" y="605" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="ZAXRh0nB9OIGQgay7iL2-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.006;entryY=0.88;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="ZAXRh0nB9OIGQgay7iL2-7" target="dHU1rHC7Ym9TqFhZgwqX-2" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -183,9 +171,6 @@
         <mxCell id="_MPn0cLWVJvE2rQs4-zf-4" value="&lt;font style=&quot;font-size: 37px;&quot;&gt;Sebet&lt;br&gt;Order&lt;br&gt;Transaction&lt;br&gt;Taglar&lt;br&gt;MetaTaglar&lt;br&gt;Discount&lt;br&gt;Settings&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="3310" y="2070" width="200" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="eSK0Mbw0FFNFPO_v78qw-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="2280" y="570" width="180" height="310" as="geometry" />
-        </mxCell>
         <mxCell id="Tw9rYQJ73jN-e2Gadvb--1" value="Discount" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1">
           <mxGeometry x="2820" y="1960" width="160" height="120" as="geometry">
             <mxRectangle x="2910" y="1870" width="130" height="30" as="alternateBounds" />
@@ -194,9 +179,6 @@
         <mxCell id="Tw9rYQJ73jN-e2Gadvb--2" value="Id&#xa;Value&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="Tw9rYQJ73jN-e2Gadvb--1" vertex="1">
           <mxGeometry y="30" width="160" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="eSK0Mbw0FFNFPO_v78qw-2" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;&lt;b&gt;Cavid&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2340" y="540" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="Tw9rYQJ73jN-e2Gadvb--3" value="Price" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1">
           <mxGeometry x="3270" y="1725" width="160" height="120" as="geometry">
             <mxRectangle x="2910" y="1870" width="130" height="30" as="alternateBounds" />
@@ -204,9 +186,6 @@
         </mxCell>
         <mxCell id="Tw9rYQJ73jN-e2Gadvb--4" value="Id&#xa;Value&#xa;DiscountId&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="Tw9rYQJ73jN-e2Gadvb--3" vertex="1">
           <mxGeometry y="30" width="160" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="eSK0Mbw0FFNFPO_v78qw-3" value="" style="ellipse;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="2350" y="605" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="Tw9rYQJ73jN-e2Gadvb--5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Tw9rYQJ73jN-e2Gadvb--4" target="Lx_lRHOu2gnfGisljdU7-15" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -224,47 +203,11 @@
         <mxCell id="xwJ_uQ3PH8p8zINR2uas-3" value="Id&#xa;Value&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="xwJ_uQ3PH8p8zINR2uas-2">
           <mxGeometry y="30" width="160" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="eSK0Mbw0FFNFPO_v78qw-4" value="" style="ellipse;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="2380" y="605" width="10" height="10" as="geometry" />
-        </mxCell>
         <mxCell id="xwJ_uQ3PH8p8zINR2uas-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="Tw9rYQJ73jN-e2Gadvb--2" target="xwJ_uQ3PH8p8zINR2uas-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eSK0Mbw0FFNFPO_v78qw-5" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="2510" y="570" width="180" height="310" as="geometry" />
-        </mxCell>
         <mxCell id="xwJ_uQ3PH8p8zINR2uas-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Tw9rYQJ73jN-e2Gadvb--4" target="xwJ_uQ3PH8p8zINR2uas-2">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eSK0Mbw0FFNFPO_v78qw-6" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;&lt;b&gt;Resul&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2570" y="540" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="eSK0Mbw0FFNFPO_v78qw-7" value="" style="ellipse;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="2580" y="605" width="10" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="eSK0Mbw0FFNFPO_v78qw-8" value="" style="ellipse;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="2610" y="605" width="10" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="eSK0Mbw0FFNFPO_v78qw-11" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2370" y="780" as="sourcePoint" />
-            <mxPoint x="2370" y="810" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="eSK0Mbw0FFNFPO_v78qw-12" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=11.428571428571429;endSize=5.285714285714286;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2099.71" y="780" as="sourcePoint" />
-            <mxPoint x="2099.71" y="810" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="xwJ_uQ3PH8p8zINR2uas-7" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="2590" y="790" width="10" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="xwJ_uQ3PH8p8zINR2uas-8" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="2600" y="790" width="10" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="xwJ_uQ3PH8p8zINR2uas-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2595" y="800" width="10" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
