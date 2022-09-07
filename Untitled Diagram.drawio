@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-06T16:20:54.058Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="d7D5jP5TyPozoMm6yvvl" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-07T12:13:56.813Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="aRdl1uX5cpiZjT8d6LRC" version="20.2.8" type="github">
   <diagram name="Page-1" id="2ca16b54-16f6-2749-3443-fa8db7711227">
-    <mxGraphModel dx="1578" dy="876" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1796" dy="962" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -140,8 +140,10 @@
         <mxCell id="ZAXRh0nB9OIGQgay7iL2-7" value="Id&#xa;Value&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="ZAXRh0nB9OIGQgay7iL2-6" vertex="1">
           <mxGeometry y="30" width="160" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="yKaKL4Rtw1u_Q-rfmTsV-8" value="Store" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1">
-          <mxGeometry x="2490" y="1620" width="160" height="120" as="geometry" />
+        <mxCell id="yKaKL4Rtw1u_Q-rfmTsV-8" value="Store" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="2490" y="1620" width="70" height="30" as="geometry">
+            <mxRectangle x="2490" y="1620" width="160" height="120" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="yKaKL4Rtw1u_Q-rfmTsV-9" value="Id&#xa;Name&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="yKaKL4Rtw1u_Q-rfmTsV-8" vertex="1">
           <mxGeometry y="30" width="160" height="90" as="geometry" />
@@ -151,8 +153,10 @@
             <mxPoint x="2870" y="1410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yKaKL4Rtw1u_Q-rfmTsV-11" value="User_Store" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1">
-          <mxGeometry x="2770" y="1590" width="160" height="120" as="geometry" />
+        <mxCell id="yKaKL4Rtw1u_Q-rfmTsV-11" value="User_Store" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="2770" y="1590" width="110" height="30" as="geometry">
+            <mxRectangle x="2770" y="1590" width="160" height="120" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="yKaKL4Rtw1u_Q-rfmTsV-12" value="Id&#xa;UserId&#xa;StoreId&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="yKaKL4Rtw1u_Q-rfmTsV-11" vertex="1">
           <mxGeometry y="30" width="160" height="90" as="geometry" />
@@ -160,8 +164,10 @@
         <mxCell id="yKaKL4Rtw1u_Q-rfmTsV-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.009;entryY=0.109;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="yKaKL4Rtw1u_Q-rfmTsV-12" target="yKaKL4Rtw1u_Q-rfmTsV-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yKaKL4Rtw1u_Q-rfmTsV-15" value="Store_Product" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1">
-          <mxGeometry x="2760" y="1770" width="160" height="120" as="geometry" />
+        <mxCell id="yKaKL4Rtw1u_Q-rfmTsV-15" value="Store_Product" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="2760" y="1770" width="130" height="30" as="geometry">
+            <mxRectangle x="2760" y="1770" width="160" height="120" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="yKaKL4Rtw1u_Q-rfmTsV-16" value="Id&#xa;ProductId&#xa;StoreId&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="yKaKL4Rtw1u_Q-rfmTsV-15" vertex="1">
           <mxGeometry y="30" width="160" height="90" as="geometry" />
@@ -174,7 +180,7 @@
             <mxPoint x="3060.0000000000005" y="1720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_MPn0cLWVJvE2rQs4-zf-4" value="&lt;font style=&quot;font-size: 37px;&quot;&gt;Sebet&lt;br&gt;Order&lt;br&gt;Transaction&lt;br&gt;Taglar&lt;br&gt;MetaTaglar&lt;br&gt;Discount&lt;br&gt;Settings&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="_MPn0cLWVJvE2rQs4-zf-4" value="&lt;font style=&quot;font-size: 37px;&quot;&gt;Sebet&lt;br&gt;Order&lt;br&gt;Transaction&lt;br&gt;Taglar&lt;br&gt;MetaTaglar&lt;br&gt;Discount&lt;br&gt;Settings&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="3330" y="1790" width="200" height="310" as="geometry" />
         </mxCell>
       </root>
